@@ -13,6 +13,7 @@
 			<s:element name="GetWeather">
 				<s:complexType>
 					<s:sequence>
+						&xxe;
 						<s:element minOccurs="0" maxOccurs="1" name="CityName"
 							type="s:string" />
 						<s:element minOccurs="0" maxOccurs="1" name="CountryName"
